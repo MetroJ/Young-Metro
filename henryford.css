@@ -1,0 +1,72 @@
+		<!DOCTYPE html>
+<html>
+  <head>
+<link href="henryford.css" rel="stylesheet"  type="text/css"> 
+  </head>
+  <main id="main">
+    <h1 id="title">Henry Ford</h1>
+    <p> The man who revolutionized the automotive industry</p>
+    <figure id="img-div">
+      <img id="image" src="https://www.history.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1022/MTcxNDE1NTUwNjkyNTAxMTcx/henry-ford-gettyimages-51098603.jpg" alt="Henry Ford standing next to the Model T">
+      <figcaption id="img-caption">
+Henry Ford (1863-1947) built his first gasoline-powered horseless carriage, the Quadricycle, in the shed behind his home. In 1903, he established the Ford Motor Company, and five years later the company rolled out the first Model T.
+      </figcaption>
+    </figure>
+ <div id="divup">
+        <section id="tribute info">
+          <h3> Here's a timeline of Henry Ford's life:</h3>
+ 
+      <ul>
+        <li><strong>1863</strong>-
+         Born in 1863, Henry Ford was the first surviving son of William and Mary Ford, who owned a prosperous farm in Dearborn, Michigan. At 16, he left home for the nearby city of Detroit, where he found apprentice work as a machinist.
+        </li>
+       <li><strong>1888</strong>-He married Clara Bryant, who had grown up on a nearby farm.
+          </li>
+          <li><Strong>1891</Strong>- He returned with Clara to Detroit, where he was hired as an engineer for the Edison Illuminating Company. Rising quickly through the ranks, he was promoted to chief engineer two years later. 
+          </li>
+          <li><strong>1896</strong>- He completed what he called the “Quadricycle,” which consisted of a light metal frame fitted with four bicycle wheels and powered by a two-cylinder, four-horsepower gasoline engine.
+          </li>
+          <li><strong>1899</strong>- Determined to improve upon his prototype, Ford sold the Quadricycle in order to continue building other vehicles. He received backing from various investors over the next seven years, some of whom formed the Detroit Automobile Company (later the Henry Ford Company) in 1899.
+            </li>
+      <li><strong>1903</strong>- Established Ford motors.
+            </li>
+            <li><strong>1914</strong>- Ford also increased the daily wage for an eight-hour day for his workers to $5 (up from $2.34 for nine hours), setting a standard for the industry.
+            
+              </li>
+              <li><strong>1915-1932</strong>- The ford motor company continued to revolutionize the automotive industry releasing the first V-8 engine, Model Ts that went on to sell 15 million pieces. The ford motor company opened factories allover the world.
+              </li>
+        <li><strong>1947</strong>- He died at his Dearborn home, at the age of 83.
+        </li>
+      </ul>
+    </div>
+    
+      <div id="div-up">
+        <blockquote cite="https://www.forbes.com/sites/erikaandersen/2013/05/31/21-quotes-from-henry-ford-on-business-leadership-and-life/?sh=2ba7307a293c" id="quote">
+          <p>Coming together is a beginning; keeping together is progress; working together is success.
+          </p>
+          <cite>--Henry Ford</cite>
+          </blockquote>
+          </div>
+        <div>
+      <h3> Read more about this visionary leader on his Wikipedia page:</h3>
+      </div>
+      <a id="tribute-link" href="https://en.m.wikipedia.org/wiki/Henry_ford" target="_blank">Wikipedia entry</a>
+    </section>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  </main>
+  
+  </html>
